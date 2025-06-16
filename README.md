@@ -73,9 +73,9 @@ City,State,Country,LATITUDE,LONGITUDE
 The TXT file must contain one query per line, for example:
 
 ```
-"gender violence"
-"domestic violence"
-"feminicide"
+gender violence
+domestic violence
+feminicide
 ```
 
 ## License
