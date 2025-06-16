@@ -1,5 +1,0 @@
-feedparser
-pandas
-tqdm
-python-dateutil
-pyarrow
