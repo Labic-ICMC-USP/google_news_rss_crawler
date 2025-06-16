@@ -11,7 +11,7 @@ except ImportError:
 except:
     from tqdm import tqdm  # Fallback for non-standard environments
 
-def crawl_news(cities_df, queries, start_year=2015, end_year=2025):
+def crawl_news(cities_df, queries, start_year=2015, end_year=2025, hl="pt-BR", gl="BR"):
     """
     Crawl Google News RSS for all city-query combinations.
     """
@@ -19,11 +19,13 @@ def crawl_news(cities_df, queries, start_year=2015, end_year=2025):
     for _, row in tqdm(cities_df.iterrows(), total=len(cities_df), desc="Cities"):
         for query in tqdm(queries, desc="Queries", leave=False):
             search_term = f"{query} in {row['City']}, {row['State']}, {row['Country']}"
+            print(search_term)
             safe_query = urllib.parse.quote_plus(search_term)
             for year in range(start_year, end_year):
                 after = f"{year}-01-01"
                 before = f"{year+1}-01-01"
-                rss_url = f"https://news.google.com/rss/search?q={safe_query}+after:{after}+before:{before}&hl=pt-BR&gl=BR"
+                rss_url = f"https://news.google.com/rss/search?q={safe_query}+after:{after}+before:{before}&hl={hl}&gl={gl}"
+                print(rss_url)
                 feed = feedparser.parse(rss_url)
                 for entry in feed.entries:
                     record = {
