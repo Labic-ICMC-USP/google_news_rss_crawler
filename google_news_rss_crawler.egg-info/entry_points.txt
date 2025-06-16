@@ -1,0 +1,2 @@
+[console_scripts]
+google-news-crawler = scripts.run_crawler:main

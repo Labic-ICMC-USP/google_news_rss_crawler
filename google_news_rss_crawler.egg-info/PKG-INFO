@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: google-news-rss-crawler
+Version: 0.1
+Requires-Dist: feedparser
+Requires-Dist: pandas
+Requires-Dist: tqdm
+Requires-Dist: python-dateutil
+Requires-Dist: pyarrow
+Dynamic: requires-dist

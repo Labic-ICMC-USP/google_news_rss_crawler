@@ -1,0 +1,319 @@
+City,State,Country,LATITUDE,LONGITUDE
+São Paulo,SP,"-23,567387","-46,570383",Brazil
+Rio de Janeiro,RJ,"-22,876652","-43,227875",Brazil
+Brasília,DF,"-15,794087","-47,887905",Brazil
+Fortaleza,CE,"-3,723805","-38,589928",Brazil
+Salvador,BA,"-13,014772","-38,488061",Brazil
+Belo Horizonte,MG,"-19,937524","-43,926453",Brazil
+Manaus,AM,"-3,134691","-60,023335",Brazil
+Curitiba,PR,"-25,432956","-49,271848",Brazil
+Recife,PE,"-8,062762","-34,888942",Brazil
+Goiânia,GO,"-16,673310","-49,255814",Brazil
+Porto Alegre,RS,"-30,030037","-51,228660",Brazil
+Belém,PA,"-1,459845","-48,487826",Brazil
+Guarulhos,SP,"-23,468506","-46,531084",Brazil
+Campinas,SP,"-22,907343","-47,060156",Brazil
+São Luís,MA,"-2,531886","-44,297919",Brazil
+Maceió,AL,"-9,660822","-35,701630",Brazil
+Campo Grande,MS,"-9,956923","-36,790840",Brazil
+São Gonçalo,RJ,"-22,829547","-43,032335",Brazil
+Teresina,PI,"-5,086342","-42,805270",Brazil
+João Pessoa,PB,"-7,149382","-34,873385",Brazil
+São Bernardo do Campo,SP,"-23,710305","-46,550257",Brazil
+Duque de Caxias,RJ,"-22,785253","-43,309888",Brazil
+Nova Iguaçu,RJ,"-22,759835","-43,450345",Brazil
+Natal,RN,"-5,750899","-35,252255",Brazil
+Santo André,SP,"-7,220489","-36,630975",Brazil
+Osasco,SP,"-23,533612","-46,788810",Brazil
+Sorocaba,SP,"-23,499323","-47,457853",Brazil
+Uberlândia,MG,"-18,918999","-48,277950",Brazil
+Ribeirão Preto,SP,"-21,184835","-47,805476",Brazil
+São José dos Campos,SP,"-23,184062","-45,884175",Brazil
+Cuiabá,MT,"-15,569989","-56,073252",Brazil
+Jaboatão dos Guararapes,PE,"-8,165391","-34,921173",Brazil
+Contagem,MG,"-19,943446","-44,066345",Brazil
+Joinville,SC,"-26,304518","-48,849409",Brazil
+Feira de Santana,BA,"-12,229284","-38,960033",Brazil
+Aracaju,SE,"-10,907216","-37,048213",Brazil
+Londrina,PR,"-23,312156","-51,162773",Brazil
+Juiz de Fora,MG,"-21,760924","-43,348817",Brazil
+Florianópolis,SC,"-27,587796","-48,547637",Brazil
+Aparecida de Goiânia,GO,"-16,822147","-49,243326",Brazil
+Serra,ES,"-20,156770","-40,275217",Brazil
+Campos dos Goytacazes,RJ,"-21,751899","-41,330476",Brazil
+Belford Roxo,RJ,"-22,764556","-43,399625",Brazil
+Niterói,RJ,"-22,896452","-43,075823",Brazil
+São José do Rio Preto,SP,"-20,812637","-49,381348",Brazil
+Ananindeua,PA,"-1,368714","-48,372067",Brazil
+Vila Velha,ES,"-20,338374","-40,293957",Brazil
+Caxias do Sul,RS,"-29,166899","-51,178860",Brazil
+Porto Velho,RO,"-8,768892","-63,831446",Brazil
+Mogi das Cruzes,SP,"-23,522707","-46,196760",Brazil
+Jundiaí,SP,"-23,187668","-46,885274",Brazil
+Macapá,AP,"0,038951","-51,057405",Brazil
+São João de Meriti,RJ,"-22,802331","-43,371885",Brazil
+Piracicaba,SP,"-22,723722","-47,646846",Brazil
+Campina Grande,PB,"-7,221497","-35,883859",Brazil
+Santos,SP,"-23,933738","-46,331371",Brazil
+Mauá,SP,"-23,669335","-46,458262",Brazil
+Montes Claros,MG,"-16,722707","-43,865422",Brazil
+Boa Vista,RR,"2,816682","-60,670533",Brazil
+Betim,MG,"-19,965379","-44,197551",Brazil
+Maringá,PR,"-23,422280","-51,939882",Brazil
+Anápolis,GO,"-16,328826","-48,957218",Brazil
+Diadema,SP,"-23,689295","-46,623381",Brazil
+Carapicuíba,SP,"-23,535250","-46,841445",Brazil
+Petrolina,PE,"-9,397376","-40,499999",Brazil
+Bauru,SP,"-22,325123","-49,083001",Brazil
+Caruaru,PE,"-8,285898","-35,967073",Brazil
+Vitória da Conquista,BA,"-14,848005","-40,839810",Brazil
+Itaquaquecetuba,SP,"-23,476898","-46,351603",Brazil
+Rio Branco,AC,"-9,978299","-67,810529",Brazil
+Blumenau,SC,"-26,916108","-49,057631",Brazil
+Ponta Grossa,PR,"-25,092547","-50,161442",Brazil
+Caucaia,CE,"-3,736487","-38,664018",Brazil
+Cariacica,ES,"-20,294678","-40,390559",Brazil
+Franca,SP,"-20,536097","-47,402332",Brazil
+Olinda,PE,"-7,992660","-34,861310",Brazil
+Praia Grande,SP,"-24,003022","-46,412050",Brazil
+Cascavel,PR,"-4,131434","-38,239686",Brazil
+Canoas,RS,"-29,918697","-51,181030",Brazil
+Paulista,PE,"-6,594062","-37,621056",Brazil
+Uberaba,MG,"-19,713535","-47,983625",Brazil
+Santarém,PA,"-2,436213","-54,718570",Brazil
+São Vicente,SP,"-6,214964","-36,688662",Brazil
+Ribeirão das Neves,MG,"-19,766022","-44,085824",Brazil
+São José dos Pinhais,PR,"-25,537702","-49,200082",Brazil
+Pelotas,RS,"-31,719598","-52,344320",Brazil
+Vitória,ES,"-20,320154","-40,322209",Brazil
+Barueri,SP,"-23,508902","-46,874653",Brazil
+Taubaté,SP,"-23,026556","-45,556609",Brazil
+Suzano,SP,"-23,536828","-46,307810",Brazil
+Palmas,TO,"-10,163253","-48,351044",Brazil
+Camaçari,BA,"-12,698817","-38,325740",Brazil
+Várzea Grande,MT,"-6,542948","-42,253102",Brazil
+Limeira,SP,"-22,562194","-47,401940",Brazil
+Guarujá,SP,"-23,995149","-46,249034",Brazil
+Juazeiro do Norte,CE,"-7,210766","-39,316993",Brazil
+Foz do Iguaçu,PR,"-25,542493","-54,587102",Brazil
+Sumaré,SP,"-22,822145","-47,265803",Brazil
+Petrópolis,RJ,"-22,510599","-43,177337",Brazil
+Cotia,SP,"-23,603514","-46,931846",Brazil
+Taboão da Serra,SP,"-23,623329","-46,785780",Brazil
+Imperatriz,MA,"-5,526524","-47,479811",Brazil
+Santa Maria,RS,"-5,838519","-35,690364",Brazil
+São José,SC,"-27,590312","-48,616023",Brazil
+Parauapebas,PA,"-6,072730","-49,900781",Brazil
+Marabá,PA,"-5,352606","-49,142025",Brazil
+Gravataí,RS,"-29,945519","-50,990793",Brazil
+Mossoró,RN,"-5,193801","-37,356874",Brazil
+Itajaí,SC,"-26,907426","-48,657023",Brazil
+Volta Redonda,RJ,"-22,509968","-44,093522",Brazil
+Governador Valadares,MG,"-18,852882","-41,947081",Brazil
+Indaiatuba,SP,"-23,081646","-47,212309",Brazil
+São Carlos,SP,"-22,015999","-47,889238",Brazil
+Chapecó,SC,"-27,106837","-52,617031",Brazil
+Parnamirim,RN,"-5,910370","-35,259209",Brazil
+Macaé,RJ,"-22,368705","-41,775064",Brazil
+Rondonópolis,MT,"-16,470163","-54,633587",Brazil
+São José de Ribamar,MA,"-2,555859","-44,057548",Brazil
+Dourados,MS,"-22,227236","-54,811289",Brazil
+Araraquara,SP,"-21,790360","-48,174440",Brazil
+Jacareí,SP,"-23,304880","-45,969593",Brazil
+Juazeiro,BA,"-9,410717","-40,503552",Brazil
+Marília,SP,"-22,214933","-49,951646",Brazil
+Americana,SP,"-22,740884","-47,330363",Brazil
+Hortolândia,SP,"-22,858395","-47,221097",Brazil
+Arapiraca,AL,"-9,755907","-36,657297",Brazil
+Maracanaú,CE,"-3,876964","-38,624419",Brazil
+Itapevi,SP,"-23,546934","-46,933373",Brazil
+Colombo,PR,"-25,294340","-49,227438",Brazil
+Divinópolis,MG,"-20,142074","-44,893886",Brazil
+Magé,RJ,"-22,654349","-43,040246",Brazil
+Ipatinga,MG,"-19,481032","-42,520351",Brazil
+Novo Hamburgo,RS,"-29,686326","-51,128605",Brazil
+Sete Lagoas,MG,"-19,458287","-44,239595",Brazil
+Rio Verde,GO,"-17,794543","-50,929681",Brazil
+Águas Lindas de Goiás,GO,"-15,737939","-48,283444",Brazil
+Presidente Prudente,SP,"-22,122744","-51,386766",Brazil
+Itaboraí,RJ,"-22,745863","-42,860343",Brazil
+Viamão,RS,"-30,081897","-51,024820",Brazil
+Palhoça,SC,"-27,647044","-48,670288",Brazil
+Cabo Frio,RJ,"-22,880765","-42,020075",Brazil
+Santa Luzia,MG,"-3,968391","-45,665012",Brazil
+São Leopoldo,RS,"-29,765867","-51,146235",Brazil
+Criciúma,SC,"-28,673572","-49,365940",Brazil
+Luziânia,GO,"-16,258541","-47,955720",Brazil
+Passo Fundo,RS,"-28,261767","-52,407095",Brazil
+Cabo de Santo Agostinho,PE,"-8,289864","-35,038489",Brazil
+Lauro de Freitas,BA,"-12,896718","-38,323462",Brazil
+Sobral,CE,"-3,688038","-40,348668",Brazil
+Rio Claro,SP,"-22,731727","-44,139406",Brazil
+Araçatuba,SP,"-21,205476","-50,439226",Brazil
+Valparaíso de Goiás,GO,"-16,069575","-47,984111",Brazil
+Maricá,RJ,"-22,916955","-42,819824",Brazil
+Sinop,MT,"-11,858005","-55,500922",Brazil
+Nossa Senhora do Socorro,SE,"-10,848754","-37,128496",Brazil
+Castanhal,PA,"-1,295757","-47,926643",Brazil
+Rio Grande,RS,"-32,050446","-52,086770",Brazil
+Nova Friburgo,RJ,"-22,286461","-42,532771",Brazil
+Alvorada,RS,"-12,478815","-49,126811",Brazil
+Itabuna,BA,"-14,789040","-39,273109",Brazil
+Cachoeiro de Itapemirim,ES,"-20,850112","-41,111919",Brazil
+Santa Bárbara d'Oeste,SP,"-22,755394","-47,413955",Brazil
+Jaraguá do Sul,SC,"-26,490484","-49,076299",Brazil
+Guarapuava,PR,"-25,393592","-51,463431",Brazil
+Ferraz de Vasconcelos,SP,"-23,541545","-46,366553",Brazil
+Ilhéus,BA,"-14,793320","-39,043184",Brazil
+Bragança Paulista,SP,"-22,956896","-46,542333",Brazil
+Timon,MA,"-5,100681","-42,833728",Brazil
+Araguaína,TO,"-7,191329","-48,208705",Brazil
+Ibirité,MG,"-20,028038","-44,056665",Brazil
+Barra Mansa,RJ,"-22,545301","-44,172431",Brazil
+Porto Seguro,BA,"-16,449056","-39,062114",Brazil
+Itu,SP,"-23,265443","-47,299750",Brazil
+Angra dos Reis,RJ,"-23,009116","-44,319627",Brazil
+Mesquita,RJ,"-19,224346","-42,605661",Brazil
+Linhares,ES,"-19,398106","-40,065306",Brazil
+São Caetano do Sul,SP,"-23,614705","-46,571515",Brazil
+Pindamonhangaba,SP,"-22,926669","-45,462049",Brazil
+Francisco Morato,SP,"-23,275826","-46,732527",Brazil
+Teresópolis,RJ,"-22,409005","-42,962957",Brazil
+Lages,SC,"-27,817259","-50,330222",Brazil
+Poços de Caldas,MG,"-21,787364","-46,566410",Brazil
+Parnaíba,PI,"-2,903360","-41,778171",Brazil
+Barreiras,BA,"-12,144925","-45,004168",Brazil
+Patos de Minas,MG,"-18,592571","-46,515916",Brazil
+Jequié,BA,"-13,855664","-40,088607",Brazil
+Atibaia,SP,"-23,116308","-46,555063",Brazil
+Itapecerica da Serra,SP,"-23,715357","-46,850552",Brazil
+Abaetetuba,PA,"-1,723470","-48,884404",Brazil
+Itapetininga,SP,"-23,587873","-48,046143",Brazil
+Caxias,MA,"-4,861675","-43,358539",Brazil
+Rio das Ostras,RJ,"-22,523941","-41,936967",Brazil
+Senador Canedo,GO,"-16,718575","-49,087967",Brazil
+Santana de Parnaíba,SP,"-23,449453","-46,922093",Brazil
+Mogi Guaçu,SP,"-22,365720","-46,944474",Brazil
+Pouso Alegre,MG,"-22,230303","-45,937144",Brazil
+Araucária,PR,"-25,591645","-49,401940",Brazil
+Alagoinhas,BA,"-12,134183","-38,422616",Brazil
+Toledo,PR,"-22,743395","-46,378973",Brazil
+Santa Rita,PB,"-3,134117","-44,319948",Brazil
+Fazenda Rio Grande,PR,"-25,641400","-49,323293",Brazil
+Camaragibe,PE,"-8,020522","-34,995721",Brazil
+Nilópolis,RJ,"-22,807514","-43,416610",Brazil
+Paranaguá,PR,"-25,506842","-48,524733",Brazil
+Paço do Lumiar,MA,"-2,528063","-44,098692",Brazil
+Teixeira de Freitas,BA,"-17,537750","-39,744518",Brazil
+Botucatu,SP,"-22,888382","-48,441289",Brazil
+Franco da Rocha,SP,"-23,320303","-46,727875",Brazil
+Garanhuns,PE,"-8,888906","-36,493050",Brazil
+Trindade,GO,"-7,761795","-40,265591",Brazil
+Brusque,SC,"-27,098310","-48,915163",Brazil
+Queimados,RJ,"-22,717430","-43,555670",Brazil
+Balneário Camboriú,SC,"-26,991819","-48,634617",Brazil
+Teófilo Otoni,MG,"-17,862540","-41,509635",Brazil
+Varginha,MG,"-21,557080","-45,431886",Brazil
+Campo Largo,PR,"-25,459491","-49,528841",Brazil
+Cachoeirinha,RS,"-6,113242","-47,914198",Brazil
+Caraguatatuba,SP,"-23,622007","-45,410818",Brazil
+Salto,SP,"-23,204074","-47,292416",Brazil
+Cametá,PA,"-2,246838","-49,497830",Brazil
+Vitória de Santo Antão,PE,"-8,118748","-35,293864",Brazil
+Jaú,SP,"-22,295791","-48,558141",Brazil
+Santa Cruz do Sul,RS,"-29,719768","-52,429929",Brazil
+Três Lagoas,MS,"-20,788679","-51,710001",Brazil
+Sapucaia do Sul,RS,"-29,824868","-51,151875",Brazil
+Conselheiro Lafaiete,MG,"-20,660852","-43,788445",Brazil
+Itapipoca,CE,"-3,499436","-39,583482",Brazil
+Crato,CE,"-7,231753","-39,408390",Brazil
+Araras,SP,"-22,357087","-47,385830",Brazil
+Apucarana,PR,"-23,551593","-51,459985",Brazil
+Araruama,RJ,"-22,877438","-42,341096",Brazil
+Resende,RJ,"-22,471184","-44,443613",Brazil
+Sabará,MG,"-19,892495","-43,825557",Brazil
+Vespasiano,MG,"-19,693030","-43,919915",Brazil
+Votorantim,SP,"-23,541871","-47,449738",Brazil
+Pinhais,PR,"-25,442198","-49,199197",Brazil
+Sertãozinho,SP,"-6,750798","-35,441751",Brazil
+Barcarena,PA,"-1,505767","-48,627073",Brazil
+Valinhos,SP,"-22,971244","-46,996630",Brazil
+Altamira,PA,"-3,205660","-52,214376",Brazil
+Barbacena,MG,"-21,224915","-43,776193",Brazil
+Guarapari,ES,"-20,665975","-40,495021",Brazil
+Ji-Paraná,RO,"-10,882051","-61,945095",Brazil
+Tatuí,SP,"-23,348577","-47,849464",Brazil
+São Mateus,ES,"-18,718447","-39,858201",Brazil
+Itaituba,PA,"-4,263729","-55,990049",Brazil
+Bento Gonçalves,RS,"-29,167402","-51,515560",Brazil
+Bragança,PA,"-1,053524","-46,765754",Brazil
+Barretos,SP,"-20,558456","-48,567378",Brazil
+Itatiba,SP,"-23,004853","-46,837558",Brazil
+Colatina,ES,"-19,536270","-40,630318",Brazil
+Almirante Tamandaré,PR,"-25,313378","-49,300320",Brazil
+Arapongas,PR,"-23,413517","-51,438280",Brazil
+Birigui,SP,"-21,292392","-50,339329",Brazil
+Piraquara,PR,"-25,446550","-49,065306",Brazil
+Sarandi,PR,"-23,443172","-51,873682",Brazil
+Jandira,SP,"-23,529939","-46,905221",Brazil
+Guaratinguetá,SP,"-22,817425","-45,191600",Brazil
+Bagé,RS,"-31,330502","-54,107083",Brazil
+Araguari,MG,"-18,648270","-48,191605",Brazil
+Uruguaiana,RS,"-29,759823","-57,081825",Brazil
+Umuarama,PR,"-23,763950","-53,308460",Brazil
+Itaguaí,RJ,"-22,871251","-43,775041",Brazil
+Formosa,GO,"-15,540945","-47,335816",Brazil
+São Gonçalo do Amarante,RN,"-3,605633","-38,972076",Brazil
+Catanduva,SP,"-21,139539","-48,975871",Brazil
+Várzea Paulista,SP,"-23,214467","-46,829890",Brazil
+Ribeirão Pires,SP,"-23,707423","-46,415344",Brazil
+Igarassu,PE,"-7,828372","-34,910583",Brazil
+Simões Filho,BA,"-12,783941","-38,411519",Brazil
+Catalão,GO,"-18,169573","-47,947703",Brazil
+Codó,MA,"-4,451338","-43,886080",Brazil
+Eunápolis,BA,"-16,375167","-39,584172",Brazil
+Itabira,MG,"-19,638169","-43,223952",Brazil
+Paulo Afonso,BA,"-9,403332","-38,218329",Brazil
+Itanhaém,SP,"-24,186121","-46,790991",Brazil
+Cubatão,SP,"-23,883839","-46,420032",Brazil
+Passos,MG,"-20,719212","-46,611413",Brazil
+Marituba,PA,"-1,346417","-48,340536",Brazil
+Nova Lima,MG,"-19,983893","-43,849783",Brazil
+Araxá,MG,"-19,591330","-46,940010",Brazil
+São Lourenço da Mata,PE,"-7,995938","-35,041278",Brazil
+Sorriso,MT,"-12,551777","-55,725914",Brazil
+Paulínia,SP,"-22,759922","-47,154386",Brazil
+Tubarão,SC,"-28,480034","-49,005268",Brazil
+Itumbiara,GO,"-18,417682","-49,220870",Brazil
+Luís Eduardo Magalhães,BA,"-12,078372","-45,800464",Brazil
+Santana,AP,"-0,038373","-51,172846",Brazil
+Cambé,PR,"-23,281632","-51,277728",Brazil
+Breves,PA,"-1,690737","-50,480895",Brazil
+Açailândia,MA,"-4,951377","-47,506665",Brazil
+Tangará da Serra,MT,"-14,623785","-57,491299",Brazil
+Jataí,GO,"-17,886232","-51,720818",Brazil
+Erechim,RS,"-27,633406","-52,275877",Brazil
+Nova Serrana,MG,"-19,875867","-44,985579",Brazil
+Paragominas,PA,"-2,994191","-47,356962",Brazil
+Maranguape,CE,"-3,891869","-38,685851",Brazil
+Planaltina,GO,"-15,453110","-47,614847",Brazil
+Lavras,MG,"-21,242870","-44,999931",Brazil
+Coronel Fabriciano,MG,"-19,525053","-42,624347",Brazil
+Muriaé,MG,"-21,132047","-42,361075",Brazil
+São Pedro da Aldeia,RJ,"-22,837203","-42,103529",Brazil
+Ourinhos,SP,"-22,977268","-49,868580",Brazil
+Novo Gama,GO,"-16,056078","-48,037211",Brazil
+Poá,SP,"-23,528627","-46,346220",Brazil
+Bacabal,MA,"-4,231525","-44,781556",Brazil
+Itacoatiara,AM,"-3,140379","-58,440175",Brazil
+Itabaiana,SE,"-7,330932","-35,337533",Brazil
+Ubá,MG,"-21,118597","-42,936786",Brazil
+Patos,PB,"-7,024492","-37,276913",Brazil
+Camboriú,SC,"-27,026456","-48,649996",Brazil
+Santo Antônio de Jesus,BA,"-12,968008","-39,261131",Brazil
+Ituiutaba,MG,"-18,973068","-49,462235",Brazil
+Manacapuru,AM,"-3,298278","-60,620589",Brazil
+Balsas,MA,"-7,531170","-46,038993",Brazil
+Lagarto,SE,"-10,915301","-37,666353",Brazil
+Assis,SP,"-22,662835","-50,417510",Brazil
+Itaperuna,RJ,"-21,210591","-41,886203",Brazil

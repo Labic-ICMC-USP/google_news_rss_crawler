@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+setup.py
+google_news_rss_crawler/__init__.py
+google_news_rss_crawler/cities.py
+google_news_rss_crawler/crawler.py
+google_news_rss_crawler/queries.py
+google_news_rss_crawler/utils.py
+google_news_rss_crawler.egg-info/PKG-INFO
+google_news_rss_crawler.egg-info/SOURCES.txt
+google_news_rss_crawler.egg-info/dependency_links.txt
+google_news_rss_crawler.egg-info/entry_points.txt
+google_news_rss_crawler.egg-info/requires.txt
+google_news_rss_crawler.egg-info/top_level.txt
