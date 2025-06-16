@@ -1,4 +1,4 @@
-City,State,Country,LATITUDE,LONGITUDE
+City,State,LATITUDE,LONGITUDE,Country
 São Paulo,SP,"-23,567387","-46,570383",Brazil
 Rio de Janeiro,RJ,"-22,876652","-43,227875",Brazil
 Brasília,DF,"-15,794087","-47,887905",Brazil
